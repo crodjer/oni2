@@ -19,7 +19,7 @@
 ### Build the textmate service
 
 - `cd src/textmate_service`
-- `node install`
+- `npm install`
 - `npm run build`
 
 ### Run
